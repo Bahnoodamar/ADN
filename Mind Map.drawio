@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-25T13:46:18.762Z" agent="5.0 (Windows)" etag="abbkykPgNRQXaXJWbD4l" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-25T13:47:13.368Z" agent="5.0 (Windows)" etag="w_Sv1j4JxX-99h_joKFj" version="20.7.4" type="github">
   <diagram id="3FAYzUAJw1p4qOGToEqN" name="Page-1">
     <mxGraphModel dx="1257" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -134,6 +134,23 @@
               <mxPoint x="885" y="850" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JSvmi1KyG3PtcBwtpsvf-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="1" source="1m_I83HTcoRCwd1rOjIo-25" target="JSvmi1KyG3PtcBwtpsvf-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="983" y="840" />
+              <mxPoint x="1175" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JSvmi1KyG3PtcBwtpsvf-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=9;" edge="1" parent="1" source="1m_I83HTcoRCwd1rOjIo-25" target="JSvmi1KyG3PtcBwtpsvf-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JSvmi1KyG3PtcBwtpsvf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="1" source="1m_I83HTcoRCwd1rOjIo-25" target="JSvmi1KyG3PtcBwtpsvf-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JSvmi1KyG3PtcBwtpsvf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="1" source="1m_I83HTcoRCwd1rOjIo-25" target="JSvmi1KyG3PtcBwtpsvf-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1m_I83HTcoRCwd1rOjIo-25" value="Konten" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="720" width="110" height="70" as="geometry" />
