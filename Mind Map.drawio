@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-25T13:55:59.030Z" agent="5.0 (Windows)" etag="AdfSUjAhpPB2OrsAlO3t" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-25T13:57:18.210Z" agent="5.0 (Windows)" etag="iSTlpyAWrrxXHa61rxj-" version="20.7.4" type="github">
   <diagram id="3FAYzUAJw1p4qOGToEqN" name="Page-1">
-    <mxGraphModel dx="765" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="3520" dy="1768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -280,6 +280,15 @@
         </mxCell>
         <mxCell id="JSvmi1KyG3PtcBwtpsvf-57" value="INSANE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1920" y="630" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JSvmi1KyG3PtcBwtpsvf-59" value="ikut seminar saja" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="730" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JSvmi1KyG3PtcBwtpsvf-60" value="seminar + notebook" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="680" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JSvmi1KyG3PtcBwtpsvf-61" value="seminar + notebook + kaos desain aksara nama peserta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="610" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
