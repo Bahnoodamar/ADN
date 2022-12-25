@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-25T13:47:13.368Z" agent="5.0 (Windows)" etag="w_Sv1j4JxX-99h_joKFj" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-25T13:48:39.539Z" agent="5.0 (Windows)" etag="COrtmNHQfgSPrb7N0mFP" version="20.7.4" type="github">
   <diagram id="3FAYzUAJw1p4qOGToEqN" name="Page-1">
-    <mxGraphModel dx="1257" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -158,10 +158,10 @@
         <mxCell id="1m_I83HTcoRCwd1rOjIo-32" value="kaos" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="880" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1m_I83HTcoRCwd1rOjIo-34" value="totebag" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="1m_I83HTcoRCwd1rOjIo-34" value="totebag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="380" y="880" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1m_I83HTcoRCwd1rOjIo-35" value="notebook" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="1m_I83HTcoRCwd1rOjIo-35" value="notebook" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="500" y="880" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JSvmi1KyG3PtcBwtpsvf-1" value="c" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
@@ -185,10 +185,10 @@
         <mxCell id="JSvmi1KyG3PtcBwtpsvf-9" value="IG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="880" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JSvmi1KyG3PtcBwtpsvf-10" value="YOUTUBE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JSvmi1KyG3PtcBwtpsvf-10" value="YOUTUBE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="850" y="880" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JSvmi1KyG3PtcBwtpsvf-11" value="&lt;div&gt;TIKTOK&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JSvmi1KyG3PtcBwtpsvf-11" value="&lt;div&gt;TIKTOK&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="760" y="880" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JSvmi1KyG3PtcBwtpsvf-12" value="FB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -200,7 +200,7 @@
         <mxCell id="JSvmi1KyG3PtcBwtpsvf-14" value="YOUTUBE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="880" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JSvmi1KyG3PtcBwtpsvf-15" value="&lt;div&gt;TIKTOK&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JSvmi1KyG3PtcBwtpsvf-15" value="&lt;div&gt;TIKTOK&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1270" y="880" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JSvmi1KyG3PtcBwtpsvf-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
