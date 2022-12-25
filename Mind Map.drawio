@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-25T13:50:30.207Z" agent="5.0 (Windows)" etag="DHSoydPRV2g-ZwiPaO0E" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-25T13:51:04.664Z" agent="5.0 (Windows)" etag="1o_tuDqvw1jSt6Dxde3C" version="20.7.4" type="github">
   <diagram id="3FAYzUAJw1p4qOGToEqN" name="Page-1">
-    <mxGraphModel dx="1467" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,6 +229,9 @@
         </mxCell>
         <mxCell id="JSvmi1KyG3PtcBwtpsvf-36" value="&lt;div&gt;TIKTOK&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1460" y="880" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JSvmi1KyG3PtcBwtpsvf-38" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=9;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="650" width="250" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
